@@ -1,4 +1,4 @@
-# 🐍 Meet B. Cobra Systems
+# 🐍 Meet B. Cobra Systems, LLC
 Your secret weapon against tedious workflows.
 
 > ⚠️ **Note:** This repository is currently under development and will be live soon.  
