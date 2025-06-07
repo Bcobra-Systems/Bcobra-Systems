@@ -29,7 +29,7 @@ End-to-end connectivity across your stack: approvals, payroll, customer records 
 ## ✨ Portfolio Preview
 
 Want to see what we’ve built?  
-Check out our [workflow showcase](https://github.com/B-Cobra-Systems/portfolio) featuring sample diagrams, use cases, and demo flows.
+Check out our [workflow showcase](https://github.com/Bcobra-Systems/portfolio) featuring sample diagrams, use cases, and demo flows.
 
 ---
 
