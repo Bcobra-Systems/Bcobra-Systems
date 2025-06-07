@@ -1,6 +1,9 @@
 # 🐍 Meet B. Cobra Systems
 Your secret weapon against tedious workflows.
 
+> ⚠️ **Note:** This repository is currently under development and will be live soon.  
+> Stay tuned for real-world examples of our automation work — we're building something great.
+
 We combine AI intelligence, low-code speed, and process precision to deliver custom automations that work as hard as you do — and never call in sick.
 
 ---
