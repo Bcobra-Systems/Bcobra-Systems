@@ -91,7 +91,7 @@ Let's talk.
 
 📧 **Email:** [info@bcobra.systems](mailto:info@bcobra.systems)  
 🌐 **Website:** [bcobra.systems](https://bcobra.systems)  
-💼 **Upwork:** [View Profile](https://www.upwork.com/freelancers/bcobra)  
+💼 **Upwork:** [View Profile]([https://www.upwork.com/freelancers/bcobra](https://www.upwork.com/freelancers/~013222e590705ad4a8))  
 📅 **Book a Call:** [Schedule 30 minutes](https://bcobra.systems/consult) — $50 consultation
 
 ---
